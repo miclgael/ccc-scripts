@@ -2,6 +2,8 @@
 
 I bought a NAS and then discovered that backing up an entire macOS install sucks.
 
+> 💡 After a lot of testing multiple points of failure, I advise don't use this strategy. Archiving!
+
 ## Problem
 
 CCC recommend backing up files over the wire into a new Disk Image, i.e. `Macintosh HD.sparsebundle`
